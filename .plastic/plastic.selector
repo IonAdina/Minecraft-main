@@ -1,0 +1,4 @@
+repository "Minecraft@Kreevos@cloud"
+  path "/"
+    br "/main"
+    co "/main"
